@@ -4,7 +4,15 @@
 
 Projects are mainly in Android and Flutter.
 
-[<img src="screenShots/one.gif" height=300em></img>](https://github.com/tanuj22333/twitter-animation)
+[<img src="screenShots/twitter.gif" height=300em></img>](https://github.com/tanuj22333/twitter-animation)
+
+[<img src="screenShots/maps.gif" height=300em></img>](https://github.com/tanuj22333/map-demo)
+
+[<img src="screenShots/gmail.gif" height=300em></img>](https://github.com/tanuj22333/gmail-ui)
+
+[<img src="screenShots/flight.gif" height=300em></img>](https://github.com/tanuj22333/flight-app)
+
+[<img src="screenShots/whatsApp.gif" height=300em></img>](https://github.com/tanuj22333/whats-app-clone)
 
 This project use basic Animation to Animate the screen. No external liberay is used.;
 
