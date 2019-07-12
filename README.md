@@ -4,7 +4,7 @@
 
 Android and Flutter Projects.
 
-[<img src="screenShots/flight.gif" height=300em></img>](https://github.com/tanuj22333/flight-app{:target="_blank"}
+[<img src="screenShots/flight.gif" height=300em></img>](https://github.com/tanuj22333/flight-app{target="_blank"}
 
 > * Flight App UI: Implemented Flight App ui using Flutter. All round curves are implemented using code to provide consistent experience to all devices. Project uses Dart and Flutter. 
 
