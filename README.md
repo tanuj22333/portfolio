@@ -23,7 +23,7 @@ This project uses basic Animation to Animate the screen. No external library is 
 
 
 ## About me:
-### My name is Tanuj. I have 3 years of Professional Android development experience and programming for 7 years. In total shipped 7 products to the Google Play Store. 
+### My name is Tanuj. I have 3.5 years of Professional Android development experience and programming for 7 years. In total shipped 7 products to the Google Play Store. 
 
 ### Built products for E-commerce, Football, and Health & Pharma companies. 
 
