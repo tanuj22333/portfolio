@@ -17,13 +17,13 @@ This project uses basic Animation to Animate the screen. No external library is 
 
 > * Map: Integrate Google map to Android project. In future will add places service to the project for now only map is integrated. Project uses XML and Java programming language. 
 
-[<img src="screenShots/gmail.gif" height=300em></img>](https://github.com/tanuj22333/gmail-ui)
+[<img src="screenShots/gmail.gif" height=520em></img>](https://github.com/tanuj22333/gmail-ui)
 
-[<img src="screenShots/whatsApp.gif" height=300em></img>](https://github.com/tanuj22333/whats-app-clone)
+[<img src="screenShots/whatsApp.gif" height=520em></img>](https://github.com/tanuj22333/whats-app-clone)
 
 
 ## About me:
-### My name is Tanuj. I have 3.5 years of Professional Android development experience and programming for 7 years. In total shipped 7 products to the Google Play Store. 
+### My name is Tanuj. I have 6.5 years of Professional Fluttter/Android development experience. In total shipped 7 products to the Google Play Store & 3 to App-Store. 
 
 ### Built products for E-commerce, Football, and Health & Pharma companies. 
 
@@ -39,4 +39,4 @@ Solution: implemented Geo-location if the user is in the allowed states applicat
 
 These projects do not have as much documentation as I want to add. I will continue to work on these and improve with time.
 
-Connect with me through Skype: https://join.skype.com/invite/dOAhIdaIdocC
+Connect with me: tanuj22333@gmail.com
